@@ -1,0 +1,22 @@
+{
+    "name": "SonkoDmitry/yii2-telegram-bot-api",
+    "description": "Telegram bot api component for Yii2",
+    "minimum-stability": "stable",
+    "type": "yii2-extension",
+    "keywords": ["telegram", "bot", "api", "yii", "yii2"],
+    "license": "BSD-3-Clause",
+    "homepage": "http://github.com/SonkoDmitry/yii2-telegram-bot-api",
+    "authors": [
+        {
+            "name": "Sonko Dmitry",
+            "email": "st.difor@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "telegram-bot/api": "*"
+    },
+    "psr-4": {
+        "SonkoDmitry\\TelegramBot\\Api": "src"
+    }
+}

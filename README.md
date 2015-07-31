@@ -9,11 +9,11 @@ The preferred way to install this extension is through [composer](http://getcomp
 
  To install, either run
  ```
- $ php composer.phar require SonkoDmitry/yii2-telegram-bot-api:*
+ $ php composer.phar require sonko-dmitry/yii2-telegram-bot-api:*
  ```
  or add
  ```
- "SonkoDmitry/yii2-telegram-bot-api": "*"
+ "sonko-dmitry/yii2-telegram-bot-api": "*"
  ```
  to the `require` section of your `composer.json` file.
 

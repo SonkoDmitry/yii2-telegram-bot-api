@@ -16,7 +16,9 @@
         "yiisoft/yii2": "*",
         "telegram-bot/api": "*"
     },
-    "psr-4": {
-        "SonkoDmitry\\Yii\\TelegramBot\\": "src"
+    "autoload": {
+        "psr-4": {
+            "SonkoDmitry\\Yii\\TelegramBot\\": "src"
+        }
     }
 }

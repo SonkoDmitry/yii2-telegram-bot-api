@@ -1,7 +1,6 @@
 {
     "name": "sonko-dmitry/yii2-telegram-bot-api",
     "description": "Telegram bot api component for Yii2",
-    "minimum-stability": "stable",
     "type": "yii2-extension",
     "keywords": ["telegram", "bot", "api", "yii", "yii2"],
     "license": "BSD-3-Clause",

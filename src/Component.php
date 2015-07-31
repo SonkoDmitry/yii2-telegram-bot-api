@@ -1,5 +1,5 @@
 <?php
-namespace SonkoDmitry\TelegramBot\Api;
+namespace SonkoDmitry\Yii\TelegramBot;
 
 use \yii\base\Configurable;
 use \TelegramBot\Api\BotApi;

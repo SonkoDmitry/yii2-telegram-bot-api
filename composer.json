@@ -17,6 +17,6 @@
         "telegram-bot/api": "*"
     },
     "psr-4": {
-        "SonkoDmitry\\TelegramBot\\Api": "src"
+        "SonkoDmitry\\Yii\\TelegramBot\\": "src"
     }
 }
